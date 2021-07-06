@@ -1,9 +1,9 @@
 <p align="center">
-  <img alt="logo" src="./.github/logo.png">
+  <img alt="logo" style="border-radius:8px" src="./.github/logo.png">
 </p>
 
 <p align="center">
-  <img alt="License" style="border-radius:8px" src="https://img.shields.io/badge/License-MIT-yellow.svg">
+  <img alt="License" src="https://img.shields.io/badge/License-MIT-yellow.svg">
 </p>
 
 ## ✨ Tecnologias
